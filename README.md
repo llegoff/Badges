@@ -8,6 +8,6 @@ PCB Badges
 
 ![](calavera/images/pcb.PNG)
 
-![](Phare/img/3d.png)
+![](Phare/img/3d.PNG)
 
-![](licorne/img/3d.png)
+![](licorne/img/3d.PNG)
