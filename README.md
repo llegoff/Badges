@@ -19,4 +19,6 @@ PCB Badges
 
 ![](licorne/img/3d.PNG)
 
+![](licorne/img/sch.PNG)
+
 ![](licorne/img/montage_led.jpg)
